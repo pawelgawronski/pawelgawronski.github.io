@@ -7,11 +7,45 @@
 	<meta name="description" content="polsak literatura" />
 	<meta name="keywords" content="Polska literatura" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  
+  <style>
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{
+		background-color: red;
+		color: white;
+		text-align: center;
+		width: 1000px;
+		padding: 15px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 1000px;
+		
+		background-color: lightblue;
+		color: grey;
+	}
+	#footer
+	{
+		clear: both;
+		background-color: white;
+		color: red;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
   
   <head/>
   
   <body>
+    
+    
     <h1>10 polskich książek opisuących czasy wojen<h1>
     1.Tadeusz Borowski, "Pożegnanie z Marią" (1947)<br/>
     <img src="http://www.taniaksiazka.pl/images/popups/0EF/9788377917992.jpg"/>
