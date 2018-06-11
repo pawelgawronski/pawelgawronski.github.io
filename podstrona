@@ -45,8 +45,14 @@
   
   <body>
     
-    
-    <h1>10 polskich książek opisuących czasy wojen<h1>
+    <div id="container">
+	
+		<div id="logo">
+		 <h1>10 polskich książek opisuących czasy wojen<h1>	
+		</div>
+	
+		
+		<div id="content"
     1.Tadeusz Borowski, "Pożegnanie z Marią" (1947)<br/>
     <img src="http://www.taniaksiazka.pl/images/popups/0EF/9788377917992.jpg"/>
     2.Gustaw Herling-Grudziński, "Inny świat" (1953)<br/>
