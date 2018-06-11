@@ -1,2 +1,0 @@
-# polska
-new web
